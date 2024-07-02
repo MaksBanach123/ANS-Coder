@@ -40,11 +40,11 @@ Aby uruchomić ten projekt, musisz mieć zainstalowany Python na swoim komputerz
 
 ## Użycie
 Proces kodowania oraz dekodowania został zrealizowany w pliku main.py.
-
+Przed odpaleniem pliku main.y należy przekonwertować plik .pgm. Aby to zrealizować należy w 36 linijce pliku generate_txt_file.py wprowadzić odpowiednią ścieżkę dostępu.
 
 ## Autorzy
 
-Projekt został wykonany przez trzyosobowy zespół w ramach studiów:
+Projekt został wykonany przez trzyosobowy zespół. W skład zespołu wchodzą:
 - Banach Maksymilian
 - Przesmycki Jakub
 - Bogumił Karol
